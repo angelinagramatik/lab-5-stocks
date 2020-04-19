@@ -1,0 +1,76 @@
+{
+  "brokers": [
+    {
+      "id": 2,
+      "name": "Angelina",
+      "surname": "Gramatik",
+      "email": "angelinagramatik@gmail.com",
+      "money": "24543636"
+    },
+    {
+      "id": 4,
+      "name": "Maria",
+      "surname": "Samoilenko",
+      "email": "marrrria@gmail.com",
+      "money": "452211"
+    },
+    {
+      "id": 5,
+      "name": "Kostya",
+      "surname": "Gramatik",
+      "email": "konstantin@gmail.com",
+      "money": "3563119"
+    },
+    {
+      "name": "Petr",
+      "surname": "Simonenko",
+      "email": "petro@gmail.com",
+      "money": "67756434",
+      "id": 6
+    }
+  ],
+  "stocks": [
+    {
+      "id": 1,
+      "name": "SPAJ",
+      "price": "22.8354",
+      "amount": "235"
+    },
+    {
+      "id": 2,
+      "name": "3DLOOK",
+      "price": "25.4517",
+      "amount": "13098"
+    },
+    {
+      "id": 3,
+      "name": "MICROSOFT",
+      "price": "34.2321",
+      "amount": "34721"
+    },
+    {
+      "id": 4,
+      "name": "UNI",
+      "price": "10.3129",
+      "amount": "1345"
+    },
+    {
+      "name": "PLLJ",
+      "price": "11.463",
+      "amount": "111",
+      "id": 5
+    },
+    {
+      "name": "NEW",
+      "price": "9.8",
+      "amount": "432",
+      "id": 7
+    },
+    {
+      "name": "FGHKJK",
+      "price": "23.5",
+      "amount": "12445",
+      "id": 8
+    }
+  ]
+}
